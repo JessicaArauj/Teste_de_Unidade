@@ -1,0 +1,12 @@
+{
+  "name": "teste_de_unidade",
+  "version": "1.0.0",
+  "description": "Scripts de teste de unidade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
